@@ -1,0 +1,5 @@
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs

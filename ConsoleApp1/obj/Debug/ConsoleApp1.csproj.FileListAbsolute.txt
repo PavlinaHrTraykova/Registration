@@ -1,0 +1,10 @@
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\asus\documents\visual studio 2017\Projects\Registration\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Users\asus\Documents\Visual Studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\asus\Documents\Visual Studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Users\asus\Documents\Visual Studio 2017\Projects\Registration\ConsoleApp1\bin\Debug\WebDriver.xml
